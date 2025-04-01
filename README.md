@@ -33,7 +33,7 @@ Sigue estos pasos para instalar el proyecto:
 </p>
 
 <p align="center">
-	<img src="https://soniditos.com/cat_footer.svg" />
+	<img src="https://open.soniditos.com/cat_footer.svg" />
 </p>
 
 <p align="center">
