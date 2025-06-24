@@ -9,7 +9,7 @@ Sigue estos pasos para instalar el proyecto:
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/sabiopobre/feelings-classifier.git
+    git clone https://github.com/virtuanista/feelings-classifier.git
     cd feelings-classifier
     ```
 2. Instala los requisitos:
